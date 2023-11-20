@@ -11,6 +11,7 @@
     - [kubernetes - container orchestration](#kubernetes---container-orchestration)
     - [microsoft-graph - central Microsoft platform API](#microsoft-graph---central-microsoft-platform-api)
     - [ohmyzsh - zsh management framework](#ohmyzsh---zsh-management-framework)
+    - [python - programming language](#python---programming-language)
     - [winget - windows package manager](#winget---windows-package-manager)
 
 <a id="categories"></a>
@@ -53,6 +54,12 @@
 ### ohmyzsh - zsh management framework
 
 - [Creating Aliases](ohmyzsh/creating_aliases.md)
+
+<a id="python"></a>
+
+### python - programming language
+
+- [Check If String Contains String](python/check_if_string_contains_string.md)
 
 <a id="winget"></a>
 
