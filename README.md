@@ -7,7 +7,7 @@
   - [Categories](#categories)
     - [authentication - general auth topics](#authentication---general-auth-topics)
     - [burp - app security testing tool](#burp---app-security-testing-tool)
-    - [homebrew - MacOS package manager](#homebrew---macos-package-manager)
+    - [homebrew - macOS package manager](#homebrew---macos-package-manager)
     - [kubernetes - container orchestration](#kubernetes---container-orchestration)
     - [microsoft-graph - central Microsoft platform API](#microsoft-graph---central-microsoft-platform-api)
     - [ohmyzsh - zsh management framework](#ohmyzsh---zsh-management-framework)
@@ -32,7 +32,7 @@
 
 <a id="homebrew"></a>
 
-### homebrew - MacOS package manager
+### homebrew - macOS package manager
 
 - [Checking Installed Packages](homebrew/checking_installed_packages.md)
 - [Update Local Packages](homebrew/update_local_packages.md)
@@ -60,6 +60,7 @@
 ### python - programming language
 
 - [Check If String Contains String](python/check_if_string_contains_string.md)
+- [Installing On macOS](python/installing_on_macos.md)
 
 <a id="winget"></a>
 
