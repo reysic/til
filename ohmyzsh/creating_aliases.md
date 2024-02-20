@@ -18,6 +18,12 @@ Following any changes, run:
 omz reload
 ```
 
+To list aliases:
+
+```bash
+alias
+```
+
 ## References
 
 - [GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
